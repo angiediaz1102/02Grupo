@@ -13,4 +13,7 @@ Posteriormente se añadieron facilidades de programación genérica, que se sum�
 C# es un lenguaje propietario de Microsoft que mezcla las características básicas de C++ (no las avanzadas) simplificándolas al estilo Java y ofreciendo un framework. C# forma parte de la plataforma .NET
 El lenguaje de programación de Arduino está basado en C++ y aunque la referencia para el lenguaje de programación de Arduino está en http://arduino.cc/en/Reference/HomePage, también es posible usar comandos estandar de C++ en la programación de Arduino.
 ## Tipos de placas
+ Existen más de 20 placas de Arduino, cada una condiferenes características. A continuación mostraré algunas de ellas.
+* **Arduino UNO**
+ Es 
 ## Imagenes
