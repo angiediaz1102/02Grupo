@@ -60,7 +60,7 @@ El lenguaje de programación de Arduino está basado en C++ y aunque la referenc
 
 **_Memoria Flash_** 32KB
 
-## Arduino Micro
+## Imagen Arduino Micro
 
 * **Arduino Esplora**
 
@@ -72,7 +72,7 @@ El lenguaje de programación de Arduino está basado en C++ y aunque la referenc
 
 **_Memoria Flash_** 32KB
 
-## Arduino esplora
+## Imagen Arduino esplora
 
 * **Arduino Due**
 
@@ -84,5 +84,5 @@ El lenguaje de programación de Arduino está basado en C++ y aunque la referenc
 
 **_Memoria Flash_** 512KB
 
-## Arduino Due
+## Imagen Arduino Due
 
