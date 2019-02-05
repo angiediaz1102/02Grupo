@@ -13,7 +13,76 @@ Posteriormente se añadieron facilidades de programación genérica, que se sum�
 C# es un lenguaje propietario de Microsoft que mezcla las características básicas de C++ (no las avanzadas) simplificándolas al estilo Java y ofreciendo un framework. C# forma parte de la plataforma .NET
 El lenguaje de programación de Arduino está basado en C++ y aunque la referencia para el lenguaje de programación de Arduino está en http://arduino.cc/en/Reference/HomePage, también es posible usar comandos estandar de C++ en la programación de Arduino.
 ## Tipos de placas
- Existen más de 20 placas de Arduino, cada una condiferenes características. A continuación mostraré algunas de ellas.
+ Existen más de 20 placas de Arduino, cada una condiferenes características. A continuación mostraré las características de algunas de ellas.
 * **Arduino UNO**
- Es 
-## Imagenes
+
+**_Voltaje de funcionamiento_**  5v
+
+**_Microcontrolador_** ATmega328
+
+**_Pines de entrada análogos_** 14 (de los cuales 6 proveen salida PWM)
+
+**_Memoria Flash_** 32KB
+
+## Aquí va imagen de Arduino UNO
+
+* **Arduino Mega 2560**
+
+**_Voltaje de funcionamiento_**  5v
+
+**_Microcontrolador_** ATmega2560
+
+**_Pines de entrada análogos_** 16
+
+**_Memoria Flash_** 256 KB
+
+## Aquí va imagen de Arduino Mega
+
+* **Arduino Nano**
+
+**_Voltaje de funcionamiento_**  5v
+
+**_Microcontrolador_** ATmega168
+
+**_Pines de entrada análogos_** 8
+
+**_Memoria Flash_** 16KB
+
+## Imagen Arduino Nano
+
+* **Arduino Micro**
+
+**_Voltaje de funcionamiento_**  5v
+
+**_Microcontrolador_** ATmega32u4
+
+**_Pines de entrada análogos_** 12
+
+**_Memoria Flash_** 32KB
+
+## Arduino Micro
+
+* **Arduino Esplora**
+
+**_Voltaje de funcionamiento_**  5v
+
+**_Microcontrolador_** ATmega32u4
+
+**_Pines de entrada análogos_** No tiene
+
+**_Memoria Flash_** 32KB
+
+## Arduino esplora
+
+* **Arduino Due**
+
+**_Voltaje de funcionamiento_**  3.3v
+
+**_Microcontrolador_** AT91SAM3X8E
+
+**_Pines de entrada análogos_** 12
+
+**_Memoria Flash_** 512KB
+
+## Arduino Due
+
