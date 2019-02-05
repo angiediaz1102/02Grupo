@@ -3,3 +3,8 @@
 #### Se trata de uno de los tipos de placas más populares del mundo maker, esta no cuenta con un único modelo, sino que ofrece unas bases de hardware abierto para que otros fabricantes puedan crear sus propias placas. Arduino es una plataforma de creación de electrónica de código abierto, la cual está basada en hardware y software libre, flexible y fácil de utilizar para los creadores y desarrolladores.    
 * El hardware libre son los dispositivos cuyas especificaciones y diagramas son de acceso público, de manera que cualquiera puede replicarlos. 
 * El software libre son los programas informáticos cuyo código es accesible por cualquiera para que quien quiera pueda utilizarlo y modificarlo.
+## ¿Cómo se creó?
+## ¿Cómo funciona una placa Arduino?
+## ¿Cuál es el lenguaje de programación de Arduino?
+## Tipos de placas
+## Imagenes
