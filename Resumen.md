@@ -1,2 +1,2 @@
 # Arduino
-## ¿Qués es?
+## ¿Qué es?
