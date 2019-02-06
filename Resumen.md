@@ -4,6 +4,8 @@
 * El hardware libre son los dispositivos cuyas especificaciones y diagramas son de acceso público, de manera que cualquiera puede replicarlos. 
 * El software libre son los programas informáticos cuyo código es accesible por cualquiera para que quien quiera pueda utilizarlo y modificarlo.
 ## ¿Cómo se creó?
+#### Arduino se inicia en el año 2005 como un proyecto para los estudiantes del Interaction Design Institute Ivrea en Italia. En ese momento, los estudiantes usaron un microcontrolador sello BASIC Stamp, cuyo costo era superior a 100 dólares, lo que era demasiado costoso para ellos.  Banzi afirmó años después, qué el proyecto nunca surgió como una idea de negocio, sino como una necesidad, creando un hardware abierto que no podía ser embargado.
+#### El nombre "Arduino" es dado por un bar que Banzi, un profesor que dio clases y también uno de los creadores de Arduino, pasaba mucho tiempo en él: El Bar del Rey Arduino.
 ## ¿Cómo funciona una placa Arduino?
 * El microcontrolador de Arduino posee  una interfaz de entrada, que es una conexión en la que podemos conectar en la placa diferentes tipos de periféricos. La información de estos periféricos que conectes se trasladará al microcontrolador, el cual se encargará de procesar los datos que le lleguen a través de ellos. Además cuenta con una interfaz de salida, que es la que se encarga de llevar la información que se ha procesado en el Arduino a otros periféricos. 
 Arduino es un proyecto y no un modelo concreto de placa, lo que quiere decir que compartiendo su diseño básico te puedes encontrar con que Las hay de varias formas. 
