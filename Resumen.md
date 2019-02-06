@@ -4,8 +4,8 @@
 * El hardware libre son los dispositivos cuyas especificaciones y diagramas son de acceso público, de manera que cualquiera puede replicarlos. 
 * El software libre son los programas informáticos cuyo código es accesible por cualquiera para que quien quiera pueda utilizarlo y modificarlo.
 ## ¿Cómo se creó
-####Arduino se inicia en el año 2005 como un proyecto para los estudiantes del Interaction Design Institute Ivrea en Italia. En ese tiempo, los estudiantes usaban un microcontrolador BASIC Stamp, cuyo coste era superior a 100 dólares, lo que era demasiado costoso para ellos. El nombre es dado por un bar que Banzi, un profesor que daba clases allí y también uno de los creadores de Arduino, pasaba mucho tiempo en: El Bar del Rey Arduino.
-Banzi entró años después, qué no ha surgido como una idea de negocio, sino también una necesidad, que no puede ser embargado.
+#### Arduino se inicia en el año 2005 como un proyecto para los estudiantes del Interaction Design Institute Ivrea en Italia. En ese tiempo, los estudiantes usaban un microcontrolador BASIC Stamp, cuyo coste era superior a 100 dólares, lo que era demasiado costoso para ellos. El nombre es dado por un bar que Banzi, un profesor que daba clases allí y también uno de los creadores de Arduino, pasaba mucho tiempo en: El Bar del Rey Arduino.
+#### Banzi entró años después, qué proyecto nunca surgió como una idea de negocio, sino como una necesidad, creando un hardware abierto que no pueda ser embargado
 ## ¿Cómo funciona una placa Arduino?
 ## ¿Cuál es el lenguaje de programación de Arduino?
 #### C++ es un lenguaje de programación diseñado a mediados de los años 1980 por Bjarne Stroustrup. La intención de su creación fue el extender al exitoso lenguaje de programación C con mecanismos que permitan la manipulación de objetos. En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, el C++ es un lenguaje híbrido.
