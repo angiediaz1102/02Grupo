@@ -32,8 +32,6 @@ El lenguaje de programación de Arduino está basado en C++ y aunque la referenc
 
 **_Memoria Flash_** 32KB
 
-## Aquí va imagen de Arduino UNO
-
 * **Arduino Mega 2560**
 
 **_Voltaje de funcionamiento_**  5v
@@ -43,8 +41,6 @@ El lenguaje de programación de Arduino está basado en C++ y aunque la referenc
 **_Pines de entrada análogos_** 16
 
 **_Memoria Flash_** 256 KB
-
-## Aquí va imagen de Arduino Mega
 
 * **Arduino Nano**
 
@@ -56,8 +52,6 @@ El lenguaje de programación de Arduino está basado en C++ y aunque la referenc
 
 **_Memoria Flash_** 16KB
 
-## Imagen Arduino Nano
-
 * **Arduino Micro**
 
 **_Voltaje de funcionamiento_**  5v
@@ -67,8 +61,6 @@ El lenguaje de programación de Arduino está basado en C++ y aunque la referenc
 **_Pines de entrada análogos_** 12
 
 **_Memoria Flash_** 32KB
-
-## Imagen Arduino Micro
 
 * **Arduino Esplora**
 
@@ -80,8 +72,6 @@ El lenguaje de programación de Arduino está basado en C++ y aunque la referenc
 
 **_Memoria Flash_** 32KB
 
-## Imagen Arduino esplora
-
 * **Arduino Due**
 
 **_Voltaje de funcionamiento_**  3.3v
@@ -91,6 +81,4 @@ El lenguaje de programación de Arduino está basado en C++ y aunque la referenc
 **_Pines de entrada análogos_** 12
 
 **_Memoria Flash_** 512KB
-
-## Imagen Arduino Due
 
