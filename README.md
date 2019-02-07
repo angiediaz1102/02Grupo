@@ -10,4 +10,4 @@
 
 ## Diseño centrado en el uso
 
-Se encarga de ser práctico para el usuario final.
+Para este no es tan importante el usuario final, se centra más que todo en cumplir tareas y objetivos acerca del uso del artefacto.
