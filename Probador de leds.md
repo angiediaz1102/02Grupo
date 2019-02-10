@@ -1,5 +1,6 @@
 ### 06-02-2019
 # DIAGRAMA PICTORICO
+La conexion entre la placa Arduino y la unidad del computador emitira un voltaje de 5V en este caso, suficiente para hacer que el LED se encienda. 
 ![1](https://github.com/angiediaz1102/02Grupo/blob/master/protoboard.png) 
 
 # DIAGRAMA ESQUEMATICO
