@@ -1,6 +1,6 @@
 ### 06-02-2019
 # DIAGRAMA PICTORICO
-La conexión entre la placa Arduino y la unidad del computador emitirá un voltaje de 5V en este caso, pasando por la resistencia de 220Ω y esto será suficiente para hacer que el LED se encienda.
+#### La conexión entre la placa Arduino y la unidad del computador emitirá un voltaje de 5V en este caso, pasando por la resistencia de 220Ω y esto será suficiente para hacer que el LED se encienda.
 
 ![1](https://github.com/angiediaz1102/02Grupo/blob/master/protoboard.png) 
 
