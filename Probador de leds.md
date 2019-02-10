@@ -1,4 +1,4 @@
-### 06-02-2019
+### PRÁCTICA 06-02-2019
 # MATERIALES 
 * Placa Arduino
 * Leds
