@@ -14,7 +14,7 @@
 * Finalmente damos energía al sistema conectando por puerto USB la place de arduino.
 # DIAGRAMA PICTORICO
 La conexion entre la placa Arduino y la unidad del computador emitira un voltaje de 5V en este caso, suficiente para hacer que el LED se encienda. 
-![1](https://github.com/angiediaz1102/02Grupo/blob/master/protoboard.png) 
+![1](https://github.com/angiediaz1102/02Grupo/blob/master/imagenes/protoboard.png) 
 
 # DIAGRAMA ESQUEMATICO
 ![1](https://github.com/angiediaz1102/02Grupo/blob/master/Sketch_esquem%C3%A1tico.png)
