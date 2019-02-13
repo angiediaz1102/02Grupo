@@ -22,4 +22,6 @@
 # DESCRIPCION
 Se realizo un sensor de movimiento en una placa arduino ,con el fin de que cuando este detectara cambios de calor, como por ejemplo cuando una persona se mueve a través de una habitación, se activara el led, lo anterior captando señales infrarojas que emite el cuerpo.
 # CONSTRUCCIÓN 
-
+![1]( https://github.com/angiediaz1102/02Grupo/blob/master/imagenes/WhatsApp%20Image%202019-02-12%20at%205.21.01%20PM.jpeg)
+ Este montaje de hizo con el fin de que el led se encienda cuando sienta presencia de calor por el sensor pir  y activará el led, dependiendo de la configuración dada anteriormente este se apagará en cierto tiempo cuando deje de sentir calor.
+ Es uno de los montajes para la luz de los edificios a pequeña escala, que cuando una persona va subiendo escaleras se prende sin necesidad de interruptores.
