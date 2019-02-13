@@ -1,6 +1,10 @@
 ## 10-02-19
 
 # DIAGRAMA PICTORICO
+# MATERIALES 
+# PROCEDIMIENTO
+# CÓDIGO ARDUINO 
+
 
 ![1](https://github.com/angiediaz1102/02Grupo/blob/master/imagenes/bb.png) 
 
@@ -9,4 +13,5 @@
 # DESCRIPCION
 
 se realizo un sensor de movimiento en una placa arduino ,con el fin de que cuando este detectara cambios de calor, como por ejemplo cuando una persona se mueve a través de una habitación, se activara el led, lo anterior captando señales infrarojas que emite el cuerpo.
+# CONSTRUCCIÓN 
 
