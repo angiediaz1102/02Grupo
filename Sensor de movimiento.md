@@ -12,7 +12,7 @@
 * Para finalizar la construcción conectamos el ánodo del led a una de las entradas digitales de la placa y el cátodo a la resistencia que se una al bus de GND en el protoard.
 * El circuito funciona al importar a la placa la información que programamos en Arduino IDE.
 # CÓDIGO ARDUINO 
-
+![1](https://github.com/angiediaz1102/02Grupo/blob/master/imagenes/sketch_feb12a.ino) 
 # DIAGRAMA PICTORICO
 
 ![1](https://github.com/angiediaz1102/02Grupo/blob/master/imagenes/bb.png) 
