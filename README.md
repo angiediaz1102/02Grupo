@@ -1,11 +1,11 @@
 # 02Grupo
 
 ## Integrantes
-* Angie Katherine Díaz Martínez (_Lider_).
+* Angie Katherine Díaz Martínez (_Líder_).
 * Andrea Viviana Rincón (_Diseñadora_).
 * Andrés Fautoque (_Diseñador_).
 * Andrés Camilo Valderrama (_Constructor_).
-* Angel Felipe Bohada (_Contructor_).
+* Angel Felipe Bohada (_Constructor_).
 * Asdruval Hernández (_Programador_).
 
 ## Diseño centrado en el uso
