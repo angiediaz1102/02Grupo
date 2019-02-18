@@ -7,3 +7,4 @@
 # DIAGRAMA ESQUEMÁTICO 
 ![1](https://github.com/angiediaz1102/02Grupo/blob/master/imagenes/dd.png)
 # FUNCIONAMIENTO 
+
