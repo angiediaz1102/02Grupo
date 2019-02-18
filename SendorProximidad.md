@@ -1,7 +1,13 @@
 ## 13-02-19
 # MATERIALES 
-# PROCEDIMIENTO
+* Placa Arduino MEGA 2560
+* Protoboard
+* Leds
+* Sensor ultrasónico HC-SR04
+* Resistencias 
+* Puentes 
 # CÓDIGO 
+![1](https://github.com/angiediaz1102/02Grupo/blob/master/imagenes/sketch_feb17a.ino)
 # DIAGRAMA PICTÓRICO
 ![1](https://github.com/angiediaz1102/02Grupo/blob/master/imagenes/vv.png)
 # DIAGRAMA ESQUEMÁTICO 
